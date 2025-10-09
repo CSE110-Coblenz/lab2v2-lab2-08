@@ -19,7 +19,8 @@ const snackItems: string[] = [
     "Carrots and Hummus",
     "Trail Mix",
     "Yogurt Parfait",
-    "Popcorn"
+    "Popcorn",
+    "zuccini"
 ];
 
 /**
