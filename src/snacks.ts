@@ -1,8 +1,8 @@
 
-const snacks: string[] = ["Snickers", "Cookies", "Brownies"];
+export const snacks: string[] = ["Snickers", "Cookies", "Brownies"];
 
 // Define and export a function that prints them to the console
-export function printSnacks(): void {
+export function printAlexSnacks(): void {
   console.log("Here are some snacks:");
   for (const snack of snacks) {
     console.log(`- ${snack}`);
@@ -10,7 +10,7 @@ export function printSnacks(): void {
 }
 
 // Call the function so it actually prints out the snacks
-printSnacks();
+printAlexSnacks();
 const snackItems: string[] = [
     "Apple Slices with Peanut Butter",
     "Carrots and Hummus",
