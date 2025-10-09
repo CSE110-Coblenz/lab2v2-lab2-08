@@ -10,7 +10,7 @@ export function printAlexSnacks(): void {
 }
 
 // Call the function so it actually prints out the snacks
-printAlexSnacks();
+// printAlexSnacks();
 const snackItems: string[] = [
     "Apple Slices with Peanut Butter",
     "Carrots and Hummus",
@@ -32,4 +32,4 @@ export function printSnacks(): void {
 }
 
 // Call the function to print the snacks when the file is executed
-printSnacks();
+// printSnacks();
