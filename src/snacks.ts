@@ -1,7 +1,7 @@
 
 import { animateFeature } from "./animation";
 
-export const snacks: string[] = ["wonderwall", "ode to joy", "the strokes"];
+export const snacks: string[] = ["wonderwall", "ode to joy", "the strokes", "chips"];
 
 // Define and export a function that prints them to the console
 export function printMusic(): void {
