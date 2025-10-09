@@ -6,7 +6,7 @@ export const snacks: string[] = ["wonderwall", "ode to joy", "the strokes"];
 // Define and export a function that prints them to the console
 export function printMusic(): void {
     animateFeature("Music");
-    console.log("Here are some songs:");
+    console.log("Here are some amazing songs:");
     for (const snack of snacks) {
         console.log(`- ${snack}`);
     }
