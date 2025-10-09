@@ -21,7 +21,8 @@ const snackItems: string[] = [
     "Yogurt Parfait",
     "Popcorn",
     "zuccini",
-    "eggplant"
+    "eggplant",
+    "parsley"
 ];
 
 /**
