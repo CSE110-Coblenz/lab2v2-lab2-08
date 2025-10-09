@@ -1,12 +1,15 @@
 
+import { animateFeature } from "./animation";
+
 export const snacks: string[] = ["wonderwall", "ode to joy", "the strokes"];
 
 // Define and export a function that prints them to the console
 export function printMusic(): void {
-  console.log("Here are some songs:");
-  for (const snack of snacks) {
-    console.log(`- ${snack}`);
-  }
+    animateFeature("Music");
+    console.log("Here are some songs:");
+    for (const snack of snacks) {
+        console.log(`- ${snack}`);
+    }
 }
 
 // Call the function so it actually prints out the snacks
