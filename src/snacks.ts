@@ -1,16 +1,16 @@
 
-export const snacks: string[] = ["Snickers", "Cookies", "Brownies"];
+export const snacks: string[] = ["wonderwall", "ode to joy", "the strokes"];
 
 // Define and export a function that prints them to the console
-export function printAlexSnacks(): void {
-  console.log("Here are some snacks:");
+export function printMusic(): void {
+  console.log("Here are some songs:");
   for (const snack of snacks) {
     console.log(`- ${snack}`);
   }
 }
 
 // Call the function so it actually prints out the snacks
-printAlexSnacks();
+//printAlexSnacks();
 const snackItems: string[] = [
     "Apple Slices with Peanut Butter",
     "Carrots and Hummus",
@@ -32,4 +32,4 @@ export function printSnacks(): void {
 }
 
 // Call the function to print the snacks when the file is executed
-printSnacks();
+//printSnacks();
