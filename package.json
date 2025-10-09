@@ -1,1 +1,4 @@
-{"scripts":{"test":"vitest run"},"dependencies":{"typescript":"^5.9.3"}}
+{
+  "scripts":{"test":"vitest run"},"dependencies":{"typescript":"^5.9.3"},"devDependencies":{"vitest":"^3.2.4"}
+
+}
