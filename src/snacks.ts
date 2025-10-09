@@ -20,12 +20,9 @@ const snackItems: string[] = [
     "Trail Mix",
     "Yogurt Parfait",
     "Popcorn",
-<<<<<<< HEAD
-=======
     "zuccini",
     "eggplant",
     "parsley",
->>>>>>> feature/add-snacks-ali
     "Taco",
     "Burrito",
     "Quesadilla",
